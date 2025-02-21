@@ -67,7 +67,8 @@ To run this project on your local machine, follow the steps below:
       <img src="https://github.com/user-attachments/assets/a7266a66-2f24-4dec-b052-6a6dd8ddf3bc" width="22%" Height="35%">
         <img src="https://github.com/user-attachments/assets/5b2fa93f-12c1-49e2-809c-381690c06987" width="22%" Height="35%">
 <img src="https://github.com/user-attachments/assets/8a43df15-06fc-4e11-b1af-6b2bb979085dl̥" width="22%" Height="35%">
-            <img src="https://github.com/user-attachments/assets/b0e9de84-6012-4194-b83b-4d4b0b606bde" width="22%" Height="35%">
-                <img src="https://github.com/user-attachments/assets/5e621f01-1851-4fc5-b866-8d1cb536f697" width="22%" Height="35%">
-                 <img src="https://github.com/user-attachments/assets/2b62ae22-265c-4531-897a-fe64ecc8e0cb" width="22%" Height="35%">
+          
 </p>
+  <img src="https://github.com/user-attachments/assets/b0e9de84-6012-4194-b83b-4d4b0b606bde" Height="35%">
+                <img src="https://github.com/user-attachments/assets/5e621f01-1851-4fc5-b866-8d1cb536f697"  Height="35%">
+                 <img src="https://github.com/user-attachments/assets/2b62ae22-265c-4531-897a-fe64ecc8e0cb" Height="35%">
