@@ -56,6 +56,18 @@ To run this project on your local machine, follow the steps below:
 3. **Set up Firebase**:
    Follow the Firebase setup guide for your platform (iOS or Android) and configure Firebase Authentication, Firestore, and Firebase Cloud Messaging.
 
----
 
-Let me know if you'd like to adjust anything else!
+
+
+
+
+<p>
+  <img src="https://github.com/user-attachments/assets/90e277ca-30b3-4536-8b1e-f5e28096a156" width="22%" Height="35%">
+    <img src="https://github.com/user-attachments/assets/fde6d13d-842a-4318-a9ef-0d04240ed8ad" width="22%" Height="35%">
+      <img src="https://github.com/user-attachments/assets/a7266a66-2f24-4dec-b052-6a6dd8ddf3bc" width="22%" Height="35%">
+        <img src="https://github.com/user-attachments/assets/5b2fa93f-12c1-49e2-809c-381690c06987" width="22%" Height="35%">
+<img src="https://github.com/user-attachments/assets/8a43df15-06fc-4e11-b1af-6b2bb979085dl̥" width="22%" Height="35%">
+            <img src="https://github.com/user-attachments/assets/b0e9de84-6012-4194-b83b-4d4b0b606bde" width="22%" Height="35%">
+                <img src="https://github.com/user-attachments/assets/5e621f01-1851-4fc5-b866-8d1cb536f697" width="22%" Height="35%">
+                 <img src="https://github.com/user-attachments/assets/2b62ae22-265c-4531-897a-fe64ecc8e0cb" width="22%" Height="35%">
+</p>
