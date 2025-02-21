@@ -35,7 +35,6 @@ class Signin extends StatelessWidget {
               ElevatedButton(onPressed: () async {
                final result= await AuthServices.authServices.signWithEmailAndPassWord(habitController.txtEmail.text, habitController.txtPassword.text);
                    Navigator.pushReplacement(context, MaterialPageRoute(builder: (context) => HomePage(),));
-                  Get.snackbar("Sign In Successfully", "",duration:Duration(seconds: 1));
               }, child: Text("Sign In")),
               TextButton(onPressed: () {
                 Navigator.pushReplacement(context, MaterialPageRoute(builder: (context) => SignUp(),));

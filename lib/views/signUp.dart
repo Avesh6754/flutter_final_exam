@@ -44,7 +44,7 @@ class SignUp extends StatelessWidget {
               }, child: Text("Sign Up")),
 
               TextButton(onPressed: () {
-                Navigator.pop(context);
+              Navigator.pushReplacement(context, MaterialPageRoute(builder: (context) => Signin(),));
               }, child: Text("Already Have account"))
             ],
           ),
